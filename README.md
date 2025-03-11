@@ -20,3 +20,4 @@ C Programs
 5. mcpfunction.c contains C codes for MCP regularization used for variable selection in numerical studies.
 6. clusterfunction.c contains C codes for sequential testing method.
 7. Sequential Testing - Simulation.c contains C codes for numerical studies using sequential testing method.
+8. C library.zip contains needed C libraries to compile C programs.
